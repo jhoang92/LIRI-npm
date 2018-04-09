@@ -4,6 +4,7 @@
   "description": "LIRI(Language Interpretation and Recognation Interface) is a command line node app that will be able get information from Twitter, OMDB, and spotify.",
   "main": "LIRI.js",
   "dependencies": {
+    "dotenv": "^5.0.1",
     "node-spotify-api": "^1.0.7",
     "request": "^2.85.0",
     "twitter": "^1.7.1"
