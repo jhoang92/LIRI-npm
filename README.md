@@ -49,14 +49,17 @@ Will display any content based on songs that are searched for. Information thats
  
 # .ENV file setup
 _You can use the code below in your ENV File. Fill in your keys and secrets in the fields needed.
+<br>
  `Spotify API keys
 `<br>
+<br>
 `SPOTIFY_ID=ADD SPOTIFY ID
 `<br>
  `SPOTIFY_SECRET=ADD SPOTIFY SECRET
 `<br>
  `Twitter API keys
 `<br>
+<br>
  `TWITTER_CONSUMER_KEY=ADD TWITTER KEYS
 `<br>
  `TWITTER_CONSUMER_SECRET=ADD TWITTER SECRET
