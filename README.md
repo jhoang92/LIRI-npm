@@ -5,9 +5,10 @@ Made for week 10 of Denver University Coding BootCamp, LIRI(Language Interpretat
   spotify-this-song (insert song name)
 `<br>
   `movie-this (insert movie name)
-  do-what-it-says (grabs info from the default text file.)
+  `<br>
+  `do-what-it-says (grabs info from the default text file.)`
 
-`# How To
+# How To
 download this repo.<br>
 npm install twitter, node-spotify-api, and request.<br>
 setup .env file.(refer to the instructions below)<br>
@@ -61,4 +62,5 @@ _You can use the code below in your ENV File. Fill in your keys and secrets in t
  `TWITTER_CONSUMER_SECRET=ADD TWITTER SECRET
 `<br>
  `TWITTER_ACCESS_TOKEN_KEY=	ADD TWITTER TOKEN KEYS
- TWITTER_ACCESS_TOKEN_SECRET=ADD TWITTER TOKEN SECRET
+ `<br>
+ `TWITTER_ACCESS_TOKEN_SECRET=ADD TWITTER TOKEN SECRET`
