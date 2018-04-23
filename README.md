@@ -20,32 +20,47 @@ will display the last 20 tweets that have been made.
 
 # OMDB
 Will display information of any movie that is searched for. Information thats displayed will include:<br><br>
-  `Title of the movie.<br>
-  `Year the movie came out.<br>
-  `IMDB Rating of the movie.<br>
-  `Rotten Tomatoes Rating of the movie.<br>
-  `Country where the movie was produced.<br>
-  `Language of the movie<br>
-  `Plot of the movie.<br>
-  `Actors in the movie.<br>
+  `Title of the movie
+<br>
+  `Year the movie came out.
+<br>
+  `IMDB Rating of the movie.
+  <br>
+  `Rotten Tomatoes Rating of the movie.
+<br>
+  `Country where the movie was produced.
+<br>
+  `Language of the movie
+<br>
+  `Plot of the movie. 
+<br>
+  `Actors in the movie.
+<br>
 
 # Spotify 
 Will display any content based on songs that are searched for. Information thats displayed will include:<br><br>
-  `Artist(s)<br>
-  `The song's name.<br>
-  `A preview link of the song from Spotify.<br>
-  `The album that the song is from.<br>
+  `Artist(s)
+<br>
+  `The song's name.
+<br>
+  `A preview link of the song from Spotify.
+<br>
+  `The album that the song is from.
+<br>
  
 # .ENV file setup
 _You can use the code below in your ENV File. Fill in your keys and secrets in the fields needed.
-`Spotify API keys
-
-`SPOTIFY_ID=ADD SPOTIFY ID
-`SPOTIFY_SECRET=ADD SPOTIFY SECRET
-
-`Twitter API keys
-
-`TWITTER_CONSUMER_KEY=ADD TWITTER KEYS
-`TWITTER_CONSUMER_SECRET=ADD TWITTER SECRET
-`TWITTER_ACCESS_TOKEN_KEY=	ADD TWITTER TOKEN KEYS
-`TWITTER_ACCESS_TOKEN_SECRET=ADD TWITTER TOKEN SECRET
+ `Spotify API keys
+<BR>
+ `SPOTIFY_ID=ADD SPOTIFY ID
+<BR>
+ `SPOTIFY_SECRET=ADD SPOTIFY SECRET
+<BR>
+ `Twitter API keys
+<BR>
+ `TWITTER_CONSUMER_KEY=ADD TWITTER KEYS
+<BR>
+ `TWITTER_CONSUMER_SECRET=ADD TWITTER SECRET
+<BR>
+ `TWITTER_ACCESS_TOKEN_KEY=	ADD TWITTER TOKEN KEYS
+ `TWITTER_ACCESS_TOKEN_SECRET=ADD TWITTER TOKEN SECRET
